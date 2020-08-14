@@ -8,7 +8,7 @@
 
   <body>
     <header class="page-header">
-	<div="container">
+	 <div class="container">
       Контакты в шапке
 	  </div>
     </header>
