@@ -1,13 +1,16 @@
 <html lang="ru">
   <head>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Old+Standard+TT&display=swap&subset=cyrillic" rel="stylesheet">
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="outlines.css">
+    <link rel="stylesheet" href="style.css">
     <title>Портфолио Junior верстальщика</title>
   </head>
 
   <body>
     <header class="page-header">
+	<div="container">
       Контакты в шапке
+	  </div>
     </header>
 
     <section class="hero-image">
@@ -34,7 +37,9 @@
     </section>
 
     <footer class="page-footer">
+	 <div class="container">
       Контакты в подвале
+	  </div>
     </footer>
   </body>
 </html>
