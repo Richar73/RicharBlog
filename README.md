@@ -33,7 +33,7 @@
       <p>Небольшой сайт-памятка.</a></p>
 
       <h3>Блог начинающего верстальщика</h3>
-      <p><a href="new 1.html">Статический блог про обучение HTML и CSS.</p>
+      <p><a href="new 1.html">Статический блог про обучение HTML и CSS.</a></p>
     </section>
 
     <footer class="page-footer">
